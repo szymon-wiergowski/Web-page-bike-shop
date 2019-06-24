@@ -61,8 +61,7 @@ body {
 #shop span.price{
     display: block;
     font-size: 58px;
-    
-}
+    }
 
 #shop a.add-to-bag{
     display: block;none
