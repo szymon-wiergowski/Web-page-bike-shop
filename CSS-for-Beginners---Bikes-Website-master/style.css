@@ -3,19 +3,19 @@
 // THE NET NINJA
 //////////////////////////*/
 
-body {
+body{
     font-family: arial;
     margin: : 0;
     background-color: : #eee;
        }
 
-#wrapper {
+#wrapper{
     width: 980px;
     margin: auto;
     background: #fff;
-     }
+    }
 
-#main-navigation {
+#main-navigation{
     background-color: #181818;
     padding: 10px;
     }
@@ -64,7 +64,7 @@ body {
     }
 
 #shop a.add-to-bag{
-    display: block;none
+    display: block;
     color: #8f746c;
     text-transform: capitalize;
     font-size: 12px;
@@ -81,6 +81,6 @@ body {
 }
 
 #footer-banner img{
-        width: 100%;
+    width: 100%;
 }
 
